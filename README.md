@@ -5,7 +5,7 @@
 ###### front-end – Coin Market Cap
 ---
 ### O projeto
-Nesse projeto é feito uma requisição de uma API de Criptomoeda com JavaScript com base no site [CoinMarketCap](https://coinmarketcap.com/api/) ensinando a manipular as APIs além de exibir essas informações em uma página web responsiva.
+Nesse projeto é feito uma requisição de uma API de Criptomoeda com JavaScript com base no site [CoinMarketCap](https://coinmarketcap.com/api/) ensinando a manipular as APIs além de exibir essas informações de nome, data de inclusão no site e sigla em uma página web responsiva.
 
 
 ### TECNOLOGIAS 🖥️
